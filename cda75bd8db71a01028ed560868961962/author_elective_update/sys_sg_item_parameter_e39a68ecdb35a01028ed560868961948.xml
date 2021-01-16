@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Teste</name>
+        <parent>bd0a975cdb71a01028ed5608689619f3</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 19:33:59</sys_created_on>
+        <sys_id>e39a68ecdb35a01028ed560868961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teste</sys_name>
+        <sys_package display_value="Lista de Compras" source="x_564154_lista_de">cda75bd8db71a01028ed560868961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista de Compras">cda75bd8db71a01028ed560868961962</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_e39a68ecdb35a01028ed560868961948</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 19:33:59</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lista de Compras">cda75bd8db71a01028ed560868961962</application>
+        <file_path/>
+        <instance_id>7ef60deedb0f1344439ef70fbf96195f</instance_id>
+        <instance_name>dev63758</instance_name>
+        <name>sys_sg_item_parameter_e39a68ecdb35a01028ed560868961948</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Teste</name><parent>bd0a975cdb71a01028ed5608689619f3</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-15 19:33:59</sys_created_on><sys_id>e39a68ecdb35a01028ed560868961948</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Teste</sys_name><sys_package display_value="Lista de Compras" source="x_564154_lista_de">cda75bd8db71a01028ed560868961962</sys_package><sys_policy/><sys_scope display_value="Lista de Compras">cda75bd8db71a01028ed560868961962</sys_scope><sys_update_name>sys_sg_item_parameter_e39a68ecdb35a01028ed560868961948</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-15 19:33:59</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>97647064</payload_hash>
+        <record_name>Teste</record_name>
+        <reverted_from/>
+        <source>91a75bd8db71a01028ed560868961965</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 19:33:59</sys_created_on>
+        <sys_id>c2aa68ecdb35a01028ed56086896190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177078a4b880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 19:33:59</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>0eaa68ec0d35a010308c60a45fcac90e</update_guid>
+        <update_guid_history>0eaa68ec0d35a010308c60a45fcac90e:97647064</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 19:34:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>205a3044578246ccade656148622ef59</sys_id>
+        <sys_metadata>e39a68ecdb35a01028ed560868961948</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teste</sys_name>
+        <sys_package display_value="Lista de Compras" source="x_564154_lista_de">cda75bd8db71a01028ed560868961962</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Lista de Compras">cda75bd8db71a01028ed560868961962</sys_scope>
+        <sys_scope_delete display_value="">40c1721d0582467891efb0cf01e89a40</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_e39a68ecdb35a01028ed560868961948</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_e39a68ecdb35a01028ed560868961948">c2aa68ecdb35a01028ed56086896190f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 19:34:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

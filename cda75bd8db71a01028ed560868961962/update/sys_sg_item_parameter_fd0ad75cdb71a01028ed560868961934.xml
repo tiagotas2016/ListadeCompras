@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Item de compra quantity</name>
+        <parent>350ad75cdb71a01028ed56086896190b</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 13:41:42</sys_created_on>
+        <sys_id>fd0ad75cdb71a01028ed560868961934</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Item de compra quantity</sys_name>
+        <sys_package display_value="Lista de Compras" source="x_564154_lista_de">cda75bd8db71a01028ed560868961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista de Compras">cda75bd8db71a01028ed560868961962</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_fd0ad75cdb71a01028ed560868961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 14:21:50</sys_updated_on>
+        <type>integer</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Item de compra Item Stream">b10a975cdb71a01028ed5608689619f0</item_stream>
+        <master_item display_value="Item de compra master_item">b90a975cdb71a01028ed5608689619f1</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-15 13:41:42</sys_created_on>
+        <sys_id>390a975cdb71a01028ed5608689619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Lista de Compras" source="x_564154_lista_de">cda75bd8db71a01028ed560868961962</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista de Compras">cda75bd8db71a01028ed560868961962</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_390a975cdb71a01028ed5608689619f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-15 13:41:42</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

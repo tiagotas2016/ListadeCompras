@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_564154_lista_de_1610717642254" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_564154_lista_de_1610717642254" element="NULL" name="x_564154_lista_de_1610717642254" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c248d31cdb71a01028ed56086896199c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-15 13:34:05</sys_created_on>
+            <sys_id>4a48d31cdb71a01028ed56086896199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-15 13:34:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_564154_lista_de_1610717642254" element="NULL" name="x_564154_lista_de_1610717642254" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c248d31cdb71a01028ed56086896199c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-15 13:34:05</sys_created_on>
+            <sys_id>4248d31cdb71a01028ed56086896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-15 13:34:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_564154_lista_de_1610717642254" element="NULL" name="x_564154_lista_de_1610717642254" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c248d31cdb71a01028ed56086896199c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-15 13:34:05</sys_created_on>
+            <sys_id>c248d31cdb71a01028ed56086896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-15 13:34:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_564154_lista_de_1610717642254" element="NULL" name="x_564154_lista_de_1610717642254" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c248d31cdb71a01028ed56086896199c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-15 13:34:05</sys_created_on>
+            <sys_id>4648d31cdb71a01028ed56086896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-15 13:34:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_564154_lista_de_1610717642254" element="NULL" name="x_564154_lista_de_1610717642254" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c248d31cdb71a01028ed56086896199c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-15 13:34:05</sys_created_on>
+            <sys_id>c648d31cdb71a01028ed56086896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-15 13:34:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_564154_lista_de_1610717642254" element="NULL" name="x_564154_lista_de_1610717642254" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c248d31cdb71a01028ed56086896199c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-15 13:34:05</sys_created_on>
+            <sys_id>4a48d31cdb71a01028ed56086896199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-15 13:34:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_564154_lista_de_1610717642254</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-15 13:34:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c248d31cdb71a01028ed56086896199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_564154_lista_de_1610717642254</sys_name>
+            <sys_package display_value="Lista de Compras" source="x_564154_lista_de">cda75bd8db71a01028ed560868961962</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lista de Compras">cda75bd8db71a01028ed560868961962</sys_scope>
+            <sys_update_name>sys_ui_list_x_564154_lista_de_1610717642254_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-15 13:34:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
